@@ -16,6 +16,9 @@ Aqui treinei conceitos como:
 
 > ![Preview do layout da Netflix](./assets/img/preview.png)
 
+### Créditos:
+https://www.figma.com/community/file/1137066328305966275/netflix-homepage
+
 ---
 
 ## 🚀 Tecnologias
